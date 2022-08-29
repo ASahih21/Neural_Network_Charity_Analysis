@@ -1,8 +1,5 @@
 # Neural Network Charity Analysis
 
-* initial commmit 19JUN2022
-
-* updated models to save every 5 epochs, removed optimizer and used single nn model for deliverable 3. 22JUN2022
 
 ## Background
 
